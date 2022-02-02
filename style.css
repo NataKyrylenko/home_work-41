@@ -46,7 +46,7 @@ section {
   text-transform: uppercase;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-gap: 25px;
+  grid-gap: 20px;
   align-items: center;
 }
 .card-first {
@@ -71,7 +71,7 @@ section {
 }
 .card__content {
   background-color: white;
-  padding: 25px;
+  padding: 30px 20px;
 }
 .content__title {
   font-size: 22px;
